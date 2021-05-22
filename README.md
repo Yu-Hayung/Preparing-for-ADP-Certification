@@ -3,6 +3,8 @@
 ---
 독학으로 준비하는 ADP 필기/실기 모두 기록하려 한다. 
 
+[통계학 포스팅- 블로그](https://velog.io/@yuhayung7296/series/%EC%9C%A0%EC%BE%8C%ED%95%9C-R-%ED%86%B5%EA%B3%84%ED%95%99)
+
 ---
 참고 자료 서적 
 
